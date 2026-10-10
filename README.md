@@ -4,7 +4,7 @@
     width="100%"
     alt="LaMoon — Developer"
   />
-  <p>Developer interested in systems, programming languages, and practical tools.</p>
+  <p>Developer exploring systems, tools, web technologies, and game development.</p>
   <a href="https://github.com/moonl1ghtstar">
     <img src="https://img.shields.io/badge/GitHub-moonl1ghtstar-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub: moonl1ghtstar" />
   </a>
@@ -12,9 +12,9 @@
 
 ## About Me
 
-- I enjoy building projects from scratch and learning by implementing ideas.
-- Interested in programming languages, systems programming, and developer tools.
-- I also explore web technologies and game-related tooling.
+- I enjoy building software projects and learning by turning ideas into working code.
+- Interested in systems programming, developer tools, and input systems.
+- I also explore web development and game-related projects.
 
 ## Languages
 
@@ -36,7 +36,7 @@
 
 ## Areas of Interest
 
-`Compiler Design` · `Systems Programming` · `Developer Tools` · `Web Development`
+`Systems Programming` · `Developer Tools` · `Input Systems` · `Web Development` · `Game Development`
 
 ---
 
