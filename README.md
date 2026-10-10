@@ -40,7 +40,7 @@ A native Windows x64 compiler toolchain for **Helix**, a C subset, and **x86-64 
 ## Languages & Tools
 
 <div align="center">
-  <img src="[https://img.shields.io/badge/Assembly-6E4C13?style=flat-square](https://i.ibb.co/ZpVBSfgQ/Pngtree-asm-file-document-icon-4166921.png)" alt="Assembly" />
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSI%2BPHBhdGggZD0iTTguNSA1LjUgMi41IDEybDYgNi41TTE1LjUgNS41bDYgNi41LTYgNi41TTEzLjUgMy41bC0zIDE3IiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMi4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4=" alt="Assembly" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js" />
