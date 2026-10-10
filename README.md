@@ -4,37 +4,56 @@
     width="100%"
     alt="LaMoon — Developer"
   />
-
   <a href="https://github.com/moonl1ghtstar">
-    <img src="https://img.shields.io/badge/GitHub-moonl1ghtstar-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Github-black.svg?logo=Github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://youtube.com/@moonl1ghtstar">
-    <img src="https://img.shields.io/badge/YouTube-moonl1ghtstar-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/>
   </a>
-  <img src="https://img.shields.io/badge/Discord-moonl1ghtst4r-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord: moonl1ghtst4r" />
+  <a href="https://discord.gg/bSvcQG8K4f">
+    <img src="https://img.shields.io/badge/Discord-5865F2.svg?logo=Discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://playentry.org/profile/6322d65de9602c00b65c96bc/project?sort=created&term=all&isOpen=all">
+    <img src="entry_badge.svg" alt="Entry"/>
+  </a>
 </div>
+
+
 
 ## About Me
 
-- I enjoy building software projects and learning by turning ideas into working code.
-- Interested in systems programming, developer tools, and input systems.
-- I also explore web development and game-related projects.
+&nbsp;&nbsp;Hello! I'm **LaMoon**, a **student developer**.
+
+&nbsp;&nbsp;I'm passionate about programming, exploring new technologies, and turning ideas into reality.
+
+&nbsp;&nbsp;&nbsp;&nbsp;Interested in systems programming, web development, and game development. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;I enjoy experimenting with different programming languages and tools. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;Always learning, building projects, and exploring new possibilities. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;I believe the best way to learn is by building something myself. <br>
+
+&nbsp;&nbsp;**Always learning, always creating.**
 
 ## Technologies
-
+<br>
 <div align="center">
-  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square" alt="Assembly" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C.svg?logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Entry-32D27D.svg" alt="Entry" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72.svg?logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React.js-20232A.svg?logo=react&logoColor=61DAFB" alt="React.js" />
 </div>
+<br>
+
+## Projects
+
+
+## GitHub Stats
 
 ---
 
 <div align="center">
-  <sub>Build things. Learn by doing. Keep improving.</sub>
+  <strong>Never Just One Thing.</strong>
 </div>
