@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:161B22,100:5146E5&height=190&section=header&text=LaMoon&fontSize=56&fontColor=F0F3F6&fontAlignY=36&desc=Developer%20%7C%20Compilers%20%7C%20Tools&descSize=15&descAlignY=58"
@@ -51,4 +50,3 @@ A native Windows x64 compiler toolchain for **Helix**, a C subset, and **x86-64 
 <div align="center">
   <sub>Learning by building — one project at a time.</sub>
 </div>
-```
