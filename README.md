@@ -33,10 +33,6 @@
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
 </div>
 
-## Areas of Interest
-
-`Systems Programming` · `Developer Tools` · `Input Systems` · `Web Development` · `Game Development`
-
 ---
 
 <div align="center">
