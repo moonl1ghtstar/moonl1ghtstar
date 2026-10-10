@@ -1,13 +1,17 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:161B22,100:5146E5&height=180&section=header&text=LaMoon&fontSize=58&fontColor=F0F3F6&fontAlignY=38&desc=Developer%20%7C%20Building%20with%20code&descSize=15&descAlignY=60"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:161B22,100:5146E5&height=180&section=header&text=LaMoon&fontSize=58&fontColor=F0F3F6&fontAlignY=38&desc=Developer&descSize=15&descAlignY=60"
     width="100%"
     alt="LaMoon — Developer"
   />
-  <p>Developer exploring systems, tools, web technologies, and game development.</p>
+
   <a href="https://github.com/moonl1ghtstar">
-    <img src="https://img.shields.io/badge/GitHub-moonl1ghtstar-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub: moonl1ghtstar" />
+    <img src="https://img.shields.io/badge/GitHub-moonl1ghtstar-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://youtube.com/@moonl1ghtstar">
+    <img src="https://img.shields.io/badge/YouTube-moonl1ghtstar-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <img src="https://img.shields.io/badge/Discord-moonl1ghtst4r-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord: moonl1ghtst4r" />
 </div>
 
 ## About Me
