@@ -40,7 +40,17 @@ A native Windows x64 compiler toolchain for **Helix**, a C subset, and **x86-64 
 ## Languages & Tools
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square" alt="Assembly" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/Windows_x64-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows x64" />
   <img src="https://img.shields.io/badge/CLI_Tools-161B22?style=flat-square&logo=windowsterminal&logoColor=white" alt="CLI tools" />
 </div>
