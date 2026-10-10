@@ -41,10 +41,10 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C.svg?logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://raw.githubusercontent.com/moonl1ghtstar/moonl1ghtstar/main/entry-badge.svg" alt="Entry" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72.svg?logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/React.js-20232A.svg?logo=react&logoColor=61DAFB" alt="React.js" />
   <img src="https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React.js-20232A.svg?logo=react&logoColor=61DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72.svg?logo=lua&logoColor=white" alt="Lua" />
 </div>
 
 <br>
