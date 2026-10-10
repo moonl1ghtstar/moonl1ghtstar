@@ -1,62 +1,45 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:161B22,100:5146E5&height=190&section=header&text=LaMoon&fontSize=56&fontColor=F0F3F6&fontAlignY=36&desc=Developer%20%7C%20Compilers%20%7C%20Tools&descSize=15&descAlignY=58"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:161B22,100:5146E5&height=180&section=header&text=LaMoon&fontSize=58&fontColor=F0F3F6&fontAlignY=38&desc=Developer%20%7C%20Building%20with%20code&descSize=15&descAlignY=60"
     width="100%"
-    alt="LaMoon — Developer, Compilers, Tools"
+    alt="LaMoon — Developer"
   />
-</div>
-
-<div align="center">
+  <p>Developer interested in systems, programming languages, and practical tools.</p>
   <a href="https://github.com/moonl1ghtstar">
     <img src="https://img.shields.io/badge/GitHub-moonl1ghtstar-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub: moonl1ghtstar" />
   </a>
-  <a href="https://github.com/moonl1ghtstar/anvil-compiler">
-    <img src="https://img.shields.io/badge/Featured_Project-Anvil_Compiler-5146E5?style=flat-square" alt="Featured project: Anvil Compiler" />
-  </a>
 </div>
 
-## About
+## About Me
 
-Hi, I'm **LaMoon** (`@moonl1ghtstar`), a developer who enjoys building software from the ground up.
+- I enjoy building projects from scratch and learning by implementing ideas.
+- Interested in programming languages, systems programming, and developer tools.
+- I also explore web technologies and game-related tooling.
 
-- Currently building **Anvil Compiler**, a compiler toolchain for Helix, a C subset, and x86-64 assembly.
-- Interested in **compiler design**, programming language implementation, and low-level systems.
-- I prefer practical tools, clear architecture, and **CLI-first** workflows.
-
-## Featured Project
+## Languages
 
 <div align="center">
-  <a href="https://github.com/moonl1ghtstar/anvil-compiler">
-    <img src="https://img.shields.io/badge/Anvil_Compiler-Explore_the_project-5146E5?style=for-the-badge&logo=github&logoColor=white" alt="Explore Anvil Compiler on GitHub" />
-  </a>
-</div>
-
-### Anvil Compiler
-
-A native Windows x64 compiler toolchain for **Helix**, a C subset, and **x86-64 assembly**. Anvil includes its own assembler and generates native Windows executables.
-
-[View repository →](https://github.com/moonl1ghtstar/anvil-compiler)
-
-## Languages & Tools
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSI%2BPHBhdGggZD0iTTguNSA1LjUgMi41IDEybDYgNi41TTE1LjUgNS41bDYgNi41LTYgNi41TTEzLjUgMy41bC0zIDE3IiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMi4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4=" alt="Assembly" />
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square" alt="Assembly" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
 </div>
 
+## Frameworks
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Windows_x64-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows x64" />
-  <img src="https://img.shields.io/badge/CLI_Tools-161B22?style=flat-square&logo=windowsterminal&logoColor=white" alt="CLI tools" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React.js" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
 </div>
+
+## Areas of Interest
+
+`Compiler Design` · `Systems Programming` · `Developer Tools` · `Web Development`
 
 ---
 
 <div align="center">
-  <sub>Learning by building — one project at a time.</sub>
+  <sub>Build things. Learn by doing. Keep improving.</sub>
 </div>
