@@ -25,10 +25,10 @@
 
 <p>&nbsp;&nbsp;I'm passionate about programming, exploring new technologies, and turning ideas into reality.</p>
 
-<p>- Interested in systems programming, web development, and game development.</p>
-<p>- I enjoy experimenting with different programming languages and tools.</p>
-<p>- Always learning, building projects, and exploring new possibilities.</p>
-<p>- I believe the best way to learn is by building something myself.</p>
+- Interested in systems programming, web development, and game development.
+- I enjoy experimenting with different programming languages and tools.
+- Always learning, building projects, and exploring new possibilities.
+- I believe the best way to learn is by building something myself.
 
 <p>&nbsp;&nbsp;<strong>Always learning, always creating.</strong></p>
 
