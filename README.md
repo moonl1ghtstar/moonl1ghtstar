@@ -60,6 +60,15 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/Astral-Interactive-team/astral-remote">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Astral-Interactive-team&repo=astral-remote&theme=github_dark&hide_border=true"
+      alt="Astral Remote repository card"
+    />
+  </a>
+</div>
+
 ## GitHub Stats
 <br>
 <div align="center">
